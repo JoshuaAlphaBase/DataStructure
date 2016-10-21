@@ -1,0 +1,9 @@
+﻿  Source.c
+c:\users\union-minerva\documents\visual studio 2015\projects\arraylinkedlist\arraylinkedlist\source.c(30): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+c:\users\union-minerva\documents\visual studio 2015\projects\arraylinkedlist\arraylinkedlist\source.c(18): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+c:\users\union-minerva\documents\visual studio 2015\projects\arraylinkedlist\arraylinkedlist\source.c(32): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\union-minerva\documents\visual studio 2015\projects\arraylinkedlist\arraylinkedlist\source.c(32): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\union-minerva\documents\visual studio 2015\projects\arraylinkedlist\arraylinkedlist\source.c(32): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\union-minerva\documents\visual studio 2015\projects\arraylinkedlist\arraylinkedlist\source.c(32): note: this argument is used as a buffer size
+  ArrayLinkedList.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\ArrayLinkedList\Debug\ArrayLinkedList.exe
+  ArrayLinkedList.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\ArrayLinkedList\Debug\ArrayLinkedList.pdb (Full PDB)

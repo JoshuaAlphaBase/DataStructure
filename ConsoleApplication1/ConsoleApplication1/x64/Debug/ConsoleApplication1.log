@@ -1,0 +1,9 @@
+﻿  Source.c
+c:\users\union-minerva\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.c(16): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+c:\users\union-minerva\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.c(30): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\union-minerva\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.c(30): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\union-minerva\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.c(30): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\union-minerva\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.c(30): note: this argument is used as a buffer size
+c:\users\union-minerva\documents\visual studio 2015\projects\consoleapplication1\consoleapplication1\source.c(16): warning C4101: 'inp_string': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\ConsoleApplication1\x64\Debug\ConsoleApplication1.pdb (Full PDB)

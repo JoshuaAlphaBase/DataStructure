@@ -1,0 +1,8 @@
+﻿  Source.c
+c:\users\union-minerva\documents\visual studio 2015\projects\linkedlist\linkedlist\source.c(14): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+c:\users\union-minerva\documents\visual studio 2015\projects\linkedlist\linkedlist\source.c(23): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\union-minerva\documents\visual studio 2015\projects\linkedlist\linkedlist\source.c(23): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\union-minerva\documents\visual studio 2015\projects\linkedlist\linkedlist\source.c(23): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\union-minerva\documents\visual studio 2015\projects\linkedlist\linkedlist\source.c(23): note: this argument is used as a buffer size
+  LinkedList.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\LinkedList\Debug\LinkedList.exe
+  LinkedList.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\LinkedList\Debug\LinkedList.pdb (Full PDB)

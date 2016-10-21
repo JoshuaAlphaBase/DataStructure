@@ -1,0 +1,13 @@
+﻿  Source.c
+c:\users\union-minerva\documents\visual studio 2015\projects\stackwithlinkedlist\stackwithlinkedlist\source.c(17): warning C4028: formal parameter 1 different from declaration
+c:\users\union-minerva\documents\visual studio 2015\projects\stackwithlinkedlist\stackwithlinkedlist\source.c(33): warning C4047: 'function': 'stackptr' differs in levels of indirection from 'stackptr *'
+c:\users\union-minerva\documents\visual studio 2015\projects\stackwithlinkedlist\stackwithlinkedlist\source.c(33): warning C4024: 'Pop': different types for formal and actual parameter 1
+c:\users\union-minerva\documents\visual studio 2015\projects\stackwithlinkedlist\stackwithlinkedlist\source.c(51): warning C4566: character represented by universal-character-name '\u00A0' cannot be represented in the current code page (949)
+c:\users\union-minerva\documents\visual studio 2015\projects\stackwithlinkedlist\stackwithlinkedlist\source.c(14): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+c:\users\union-minerva\documents\visual studio 2015\projects\stackwithlinkedlist\stackwithlinkedlist\source.c(22): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  c:\users\union-minerva\documents\visual studio 2015\projects\stackwithlinkedlist\stackwithlinkedlist\source.c(22): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  c:\users\union-minerva\documents\visual studio 2015\projects\stackwithlinkedlist\stackwithlinkedlist\source.c(22): note: the missing variadic argument 2 is required by format string '%c'
+  c:\users\union-minerva\documents\visual studio 2015\projects\stackwithlinkedlist\stackwithlinkedlist\source.c(22): note: this argument is used as a buffer size
+c:\users\union-minerva\documents\visual studio 2015\projects\stackwithlinkedlist\stackwithlinkedlist\source.c(69): warning C4028: formal parameter 1 different from declaration
+  StackWithLinkedList.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\StackWithLinkedList\Debug\StackWithLinkedList.exe
+  StackWithLinkedList.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\StackWithLinkedList\Debug\StackWithLinkedList.pdb (Full PDB)

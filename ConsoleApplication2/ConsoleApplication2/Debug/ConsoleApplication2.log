@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\union-minerva\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\source.c(8): warning C4013: 'malloc' undefined; assuming extern returning int
+c:\users\union-minerva\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\source.c(9): warning C4716: 'get_node': must return a value
+  ConsoleApplication2.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
+  ConsoleApplication2.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)

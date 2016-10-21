@@ -1,0 +1,12 @@
+﻿  Source.c
+Source.c(11): warning C4047: 'initializing': 'char' differs in levels of indirection from 'char [1]'
+Source.c(16): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  Source.c(16): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  Source.c(16): note: the missing variadic argument 2 is required by format string '%c'
+  Source.c(16): note: this argument is used as a buffer size
+Source.c(47): warning C4013: 'exit' undefined; assuming extern returning int
+  Generating code
+  All 9 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Queue.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\Queue\x64\Release\Queue.exe
+  Queue.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\Queue\x64\Release\Queue.pdb (Full PDB)

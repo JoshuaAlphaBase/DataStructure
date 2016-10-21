@@ -1,0 +1,11 @@
+﻿  Source.c
+Source.c(29): warning C4047: '=': 'char' differs in levels of indirection from 'char [1]'
+Source.c(31): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  Source.c(31): note: placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  Source.c(31): note: the missing variadic argument 2 is required by format string '%c'
+  Source.c(31): note: this argument is used as a buffer size
+  Generating code
+  All 13 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\ConsoleApplication1\x64\Release\ConsoleApplication1.pdb (Full PDB)
