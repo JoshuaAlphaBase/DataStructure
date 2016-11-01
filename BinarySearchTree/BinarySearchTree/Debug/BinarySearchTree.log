@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\union-minerva\documents\visual studio 2015\projects\binarysearchtree\binarysearchtree\source.c(34): warning C4013: 'exit' undefined; assuming extern returning int
+c:\users\union-minerva\documents\visual studio 2015\projects\binarysearchtree\binarysearchtree\source.c(143): warning C4013: 'free' undefined; assuming extern returning int
+  BinarySearchTree.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\BinarySearchTree\Debug\BinarySearchTree.exe
+  BinarySearchTree.vcxproj -> C:\Users\UNion-Minerva\Documents\Visual Studio 2015\Projects\BinarySearchTree\Debug\BinarySearchTree.pdb (Full PDB)
